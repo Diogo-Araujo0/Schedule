@@ -1,0 +1,44 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Big Stink",
+    "ID": "bigstink",
+    "DrugType": 0,
+    "Properties": [
+        "calming",
+        "Euphoric",
+        "gingeritis",
+        "energizing",
+        "caloriedense",
+        "tropicthunder",
+        "glowie",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 120,
+            "b": 77,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 147,
+            "g": 140,
+            "b": 91,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 130,
+            "g": 130,
+            "b": 84,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 96,
+            "b": 61,
+            "a": 255
+        }
+    }
+}

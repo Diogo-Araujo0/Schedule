@@ -1,0 +1,8 @@
+{
+    "DataType": "LabOvenConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Destination": {
+        "ObjectGUID": "a8af90a7-c77b-4d67-a6df-eeef06acdfab"
+    }
+}

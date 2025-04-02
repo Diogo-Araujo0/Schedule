@@ -1,0 +1,43 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Fat Death",
+    "ID": "fatdeath",
+    "DrugType": 0,
+    "Properties": [
+        "sneaky",
+        "sedating",
+        "caloriedense",
+        "foggy",
+        "tropicthunder",
+        "giraffying",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 99,
+            "g": 106,
+            "b": 85,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 147,
+            "g": 122,
+            "b": 121,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 123,
+            "g": 114,
+            "b": 103,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 79,
+            "g": 84,
+            "b": 68,
+            "a": 255
+        }
+    }
+}

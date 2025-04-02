@@ -1,0 +1,44 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Thick Rhino",
+    "ID": "thickrhino",
+    "DrugType": 0,
+    "Properties": [
+        "paranoia",
+        "calming",
+        "Euphoric",
+        "disorienting",
+        "caloriedense",
+        "foggy",
+        "thoughtprovoking",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 106,
+            "g": 99,
+            "b": 78,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 141,
+            "g": 126,
+            "b": 92,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 123,
+            "g": 112,
+            "b": 85,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 84,
+            "g": 79,
+            "b": 62,
+            "a": 255
+        }
+    }
+}

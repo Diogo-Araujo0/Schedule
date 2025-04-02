@@ -1,0 +1,40 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Big Assblaster",
+    "ID": "bigassblaster",
+    "DrugType": 0,
+    "Properties": [
+        "munchies",
+        "gingeritis",
+        "balding",
+        "athletic"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 106,
+            "g": 101,
+            "b": 72,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 163,
+            "g": 120,
+            "b": 73,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 134,
+            "g": 110,
+            "b": 72,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 84,
+            "g": 80,
+            "b": 57,
+            "a": 255
+        }
+    }
+}

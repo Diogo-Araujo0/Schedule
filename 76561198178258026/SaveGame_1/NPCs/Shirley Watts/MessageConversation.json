@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 10,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -242430620,
+            "Text": "Working on it. Should be ready in around 2 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 879836304,
+            "Text": "The drop is ready. You can find it behind the bank",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 255910647,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -400109576,
+            "Text": "When you're ready please deposit <color=#46CB4F>$580</color> into my stash box - your debt is still unpaid.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1959179965,
+            "Text": "I've received $580 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2091459314,
+            "Text": "I need a dead drop:\n5x High-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1237990126,
+            "Text": "Copy. I'll message you when it's ready in about 2 hours 30 min.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 161103034,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1060330977,
+            "Text": "I've received $550 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1523052298,
+            "Text": "Your drop is ready. Grab it behind the bank",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

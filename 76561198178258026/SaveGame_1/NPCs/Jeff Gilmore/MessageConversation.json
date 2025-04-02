@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 21,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1325437672,
+            "Text": "Ayo dawg, if you got 2x Meth I'll pay <color=#46CB4F>$130</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 509536789,
+            "Text": "Damn bro",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -915926022,
+            "Text": "Ay bro you got 4x Green Crack? I'll pay <color=#46CB4F>$260</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -2033333235,
+            "Text": "How about 4x Green Crack for $310?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1027080176,
+            "Text": "Nopeskies bro - nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 806366297,
+            "Text": "Ayo dawg, if you got 4x Sour Diesel I'll pay <color=#46CB4F>$260</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 880175509,
+            "Text": "How about 4x Sour Diesel for $300?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -220165613,
+            "Text": "Aight. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 580223777,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 72742620,
+            "Text": "Cheers bro, I'll meet you <b>behind the casino</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

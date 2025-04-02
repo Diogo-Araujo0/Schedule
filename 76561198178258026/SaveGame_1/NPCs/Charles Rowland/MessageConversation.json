@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 10,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -913947341,
+            "Text": "Hey, I need 7x Granddaddy Purple. I'll pay <color=#46CB4F>$450</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 606574694,
+            "Text": "How about 7x Granddaddy Purple for $500?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 8587862,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 666487573,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1870417060,
+            "Text": "Ok, I'll meet you <b>on the west wharf</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 85493899,
+            "Text": "Hello, I'm after 6x Green Crack. I can pay <color=#46CB4F>$365</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 629252236,
+            "Text": "How about 6x Green Crack for $405?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1147409712,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -408893567,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -257217703,
+            "Text": "Alright cool, I'll meet you <b>next to the statue in the west park</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

@@ -1,0 +1,44 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Ice Cream Diesel",
+    "ID": "icecreamdiesel",
+    "DrugType": 0,
+    "Properties": [
+        "Euphoric",
+        "gingeritis",
+        "energizing",
+        "sneaky",
+        "caloriedense",
+        "thoughtprovoking",
+        "tropicthunder",
+        "glowie"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 120,
+            "b": 77,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 174,
+            "g": 146,
+            "b": 79,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 144,
+            "g": 133,
+            "b": 78,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 96,
+            "b": 61,
+            "a": 255
+        }
+    }
+}

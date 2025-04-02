@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 23,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -70400655,
+            "Text": "I NEED 2x Meth. I GOT <color=#46CB4F>$170</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1355589714,
+            "Text": "How about 2x Meth for $210?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1072722807,
+            "Text": "Ok whatever. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -767560632,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 229141138,
+            "Text": "Good!! I'll see u <b>behind the pawn shop</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1938420090,
+            "Text": "I'm after 3x Green Crack. I can pay <color=#46CB4F>$200</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 702989185,
+            "Text": "How about 2x Green Crack for $120?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 959774922,
+            "Text": "Ok whatever. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 372123840,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1470980039,
+            "Text": "Good!! I'll see u <b>on the west wharf</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

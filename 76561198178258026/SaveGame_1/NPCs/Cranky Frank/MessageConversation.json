@@ -1,0 +1,47 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 15,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 917530143,
+            "Text": "Need me 8x Death Dick! I'll pay <color=#46CB4F>$605</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -867312479,
+            "Text": "How about 3x Death Dick for $285?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1266345730,
+            "Text": "Nope!! Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 826093115,
+            "Text": "I'm after 8x Death Dick. I can pay <color=#46CB4F>$605</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1337939799,
+            "Text": "How about 3x Death Dick for $245?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 188226883,
+            "Text": "Goddammit no. I'll just look elsewhere",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

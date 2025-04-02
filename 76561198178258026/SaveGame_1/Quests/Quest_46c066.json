@@ -1,0 +1,28 @@
+{
+    "DataType": "DeaddropQuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "GUID": "46c0660e-9c90-4bcd-8aef-b85480d1bf28",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Collect Dead Drop",
+    "Description": "Collect the dead drop outside apartment 2 of the western apartment block",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f12",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f12",
+            "Name": "Brown apartment block",
+            "State": 2
+        }
+    ],
+    "DeaddropGUID": "b77ed1a0-c729-41d5-b8a2-81b480ca971f"
+}
