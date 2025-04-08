@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 16,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -1109476330,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -214718506,
+            "Text": "Great, I'll meet you <b>on the west wharf</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2141855678,
+            "Text": "Hello, I'm after 5x Sour Diesel. I can pay <color=#46CB4F>$305</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1195318790,
+            "Text": "K",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -856249174,
+            "Text": "Hey, can I get 5x Sour Diesel? I'll pay <color=#46CB4F>$305</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 759397031,
+            "Text": "Damn",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -360802680,
+            "Text": "Hey, I need 3x Meth. I'll pay <color=#46CB4F>$225</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1002457483,
+            "Text": "How about 1x Meth for $100?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 419825487,
+            "Text": "No way",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 420433124,
+            "Text": "Don't worry about it",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

@@ -1,0 +1,30 @@
+{
+    "DataType": "CleanerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ID": "eric_williams",
+    "AssignedProperty": "barn",
+    "FirstName": "Eric",
+    "LastName": "Williams",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": 179.39048767089845,
+        "y": -0.008779296651482582,
+        "z": -2.077338457107544
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0,
+        "w": 3.874301341966202e-7
+    },
+    "GUID": "9b0114bf-d243-48e1-adf8-ef377fb2f1e9",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

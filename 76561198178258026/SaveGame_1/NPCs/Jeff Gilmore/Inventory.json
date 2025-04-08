@@ -1,0 +1,9 @@
+{
+    "Items": [
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":56.0}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"sourdiesel\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"sourdiesel\",\"Quantity\":2,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":1500.0}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"dreamassblaster\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Miracle Gold",
+    "ID": "miraclegold",
+    "DrugType": 0,
+    "Properties": [
+        "paranoia",
+        "calming",
+        "energizing",
+        "caloriedense",
+        "laxative",
+        "thoughtprovoking",
+        "electrifying",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 116,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 141,
+            "g": 126,
+            "b": 92,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 127,
+            "g": 121,
+            "b": 87,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 92,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

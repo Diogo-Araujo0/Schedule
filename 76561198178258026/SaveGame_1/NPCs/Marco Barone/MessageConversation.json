@@ -1,0 +1,41 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 16,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1942527168,
+            "Text": "Hello, I'm after 10x Granddaddy Purple. I can pay <color=#46CB4F>$555</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1757159490,
+            "Text": "How about 10x Granddaddy Purple for $605?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 337375080,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1742799270,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -722973087,
+            "Text": "Great, I'll meet you <b>outside the brick warehouse at the docks</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

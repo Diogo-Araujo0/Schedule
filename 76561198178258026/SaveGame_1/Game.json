@@ -1,0 +1,10 @@
+{
+    "DataType": "GameData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "OrganisationName": "253",
+    "Seed": 114316427,
+    "Settings": {
+        "ConsoleEnabled": false
+    }
+}

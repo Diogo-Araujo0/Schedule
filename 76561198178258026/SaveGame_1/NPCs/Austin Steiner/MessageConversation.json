@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 10,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1462667802,
+            "Text": "Hello, I'm after 6x Green Crack. I can pay <color=#46CB4F>$365</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -850865431,
+            "Text": "How about 6x Green Crack for $465?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1565137916,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1951067569,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1192263517,
+            "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 889503160,
+            "Text": "Hey, can I get 4x Ultra Monkey? I'll pay <color=#46CB4F>$275</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1279036310,
+            "Text": "How about 4x Ultra Monkey for $315?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -392653016,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -620618871,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 735798053,
+            "Text": "Great, I'll meet you <b>behind taco ticklers</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

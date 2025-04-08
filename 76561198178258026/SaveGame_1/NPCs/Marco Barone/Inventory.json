@@ -1,0 +1,9 @@
+{
+    "Items": [
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":99.0}",
+        "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"ultramonkey\",\"Quantity\":1,\"Quality\":\"Premium\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"dreamassblaster\",\"Quantity\":3,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"\",\"Quantity\":0}"
+    ]
+}

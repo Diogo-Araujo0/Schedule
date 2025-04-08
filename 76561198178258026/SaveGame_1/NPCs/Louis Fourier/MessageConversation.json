@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 13,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -2093570315,
+            "Text": "Hey, can I get 7x Sour Diesel? I'll pay <color=#46CB4F>$465</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1844167948,
+            "Text": "How about 7x Sour Diesel for $505?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -73763457,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1901068280,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 757905951,
+            "Text": "Great, I'll meet you <b>behind the casino</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1759658086,
+            "Text": "Hey, I need 8x Granddaddy Purple. I'll pay <color=#46CB4F>$535</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -636452888,
+            "Text": "How about 8x Granddaddy Purple for $575?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 726525137,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1130684453,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1343039764,
+            "Text": "Great, I'll meet you <b>on the wharf near the french restaurant</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

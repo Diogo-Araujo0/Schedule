@@ -1,0 +1,28 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Extreme Diamond",
+    "ID": "extremediamond",
+    "DrugType": 1,
+    "Properties": [
+        "energizing",
+        "balding",
+        "thoughtprovoking",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 214,
+            "g": 255,
+            "b": 196,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 208,
+            "g": 222,
+            "b": 149,
+            "a": 255
+        }
+    }
+}

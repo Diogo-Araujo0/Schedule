@@ -1,0 +1,65 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 40,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 2011777510,
+            "Text": "Hey, I need 3x OG Kush. I'll pay <color=#46CB4F>$180</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 576169314,
+            "Text": "How about 3x OG Kush for $250?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1527051931,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -17789189,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1207588176,
+            "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1799710753,
+            "Text": "Hey, if you got 2x Green Crack I'll pay <color=#46CB4F>$120</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1311722365,
+            "Text": "How about 2x Green Crack for $150?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1736266278,
+            "Text": "You crazy? No thanks",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1397393259,
+            "Text": "Don't worry about it",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

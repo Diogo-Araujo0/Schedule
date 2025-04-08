@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ID": "pamela_johnson",
+    "AssignedProperty": "barn",
+    "FirstName": "Pamela",
+    "LastName": "Johnson",
+    "IsMale": false,
+    "AppearanceIndex": 2,
+    "Position": {
+        "x": 180.98516845703126,
+        "y": -0.008779296651482582,
+        "z": -3.1159346103668215
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.866025447845459,
+        "z": 0.0,
+        "w": 0.5
+    },
+    "GUID": "79dbba98-83b5-4a71-b76f-d2cb706ceee2",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

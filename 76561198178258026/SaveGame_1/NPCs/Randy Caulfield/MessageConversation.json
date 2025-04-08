@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 17,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 1860945862,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1905644433,
+            "Text": "Great, I'll meet you <b>on the wharf near the french restaurant</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 268764414,
+            "Text": "Hey, I need 3x Meth. I'll pay <color=#46CB4F>$210</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2091544767,
+            "Text": "K",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1674980591,
+            "Text": "Hey, if you got 4x Granddaddy Purple I'll pay <color=#46CB4F>$265</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -493572596,
+            "Text": "K",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1647798576,
+            "Text": "Hey, can I get 4x Granddaddy Purple? I'll pay <color=#46CB4F>$265</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1707253264,
+            "Text": "How about 4x Granddaddy Purple for $314?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 98742901,
+            "Text": "No thanks. I'll just look elsewhere",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1874488496,
+            "Text": "Don't worry about it",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

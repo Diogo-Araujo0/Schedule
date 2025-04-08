@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 18,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -2064099039,
+            "Text": "Agreed. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -545618445,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -394275132,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 189829569,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -244915068,
+            "Text": "I need a dead drop:\n4x OG Kush Seed\n2x Sour Diesel Seed\n2x Green Crack Seed\n2x Granddaddy Purple Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -706855791,
+            "Text": "Copy. I'll message you when it's ready in about 5 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 316626390,
+            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 494419172,
+            "Text": "I've received $360 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 491661823,
+            "Text": "The drop is ready. You can find it behind the auto shop",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -358886792,
+            "Text": "Agreed. I'll be under the north end of the overpass for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

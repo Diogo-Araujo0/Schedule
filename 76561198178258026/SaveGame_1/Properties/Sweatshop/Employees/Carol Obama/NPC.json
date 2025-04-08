@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ID": "carol_obama",
+    "AssignedProperty": "sweatshop",
+    "FirstName": "Carol",
+    "LastName": "Obama",
+    "IsMale": false,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": -62.53949737548828,
+        "y": -4.009995460510254,
+        "z": 143.61643981933595
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.25087153911590578,
+        "z": 0.0,
+        "w": 0.9680203795433044
+    },
+    "GUID": "929aa986-449a-4a9d-8af1-88e440031337",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

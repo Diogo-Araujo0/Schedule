@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "GUID": "36fe402d-4acf-45ce-b71e-2fb6206ef6af",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Keith",
+    "Description": "Keith has requested a delivery of 3x Ultra Monkey outside room #2 of the brown apartment block for $255.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f12",
+        "ElapsedDays": 33,
+        "Time": 1200
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f12",
+            "Name": "3x Ultra Monkey, Outside brown apartment block room #2",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "ad0ec19f-ac46-4bf6-8425-7bde5b36767f",
+    "Payment": 255.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "ultramonkey",
+                "Quality": 0,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "71a56a7a-9b3a-4b59-98ce-2e29448f33ba",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 600,
+        "WindowEndTime": 1200
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f12",
+        "ElapsedDays": 33,
+        "Time": 400
+    }
+}

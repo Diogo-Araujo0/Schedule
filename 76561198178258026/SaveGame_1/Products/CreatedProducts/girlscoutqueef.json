@@ -1,0 +1,43 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Girl Scout Queef",
+    "ID": "girlscoutqueef",
+    "DrugType": 0,
+    "Properties": [
+        "Euphoric",
+        "balding",
+        "foggy",
+        "tropicthunder",
+        "glowie",
+        "antigravity",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 120,
+            "b": 77,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 184,
+            "g": 162,
+            "b": 81,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 149,
+            "g": 141,
+            "b": 79,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 96,
+            "b": 61,
+            "a": 255
+        }
+    }
+}

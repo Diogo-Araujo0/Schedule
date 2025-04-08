@@ -1,0 +1,41 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Miracle Punch",
+    "ID": "miraclepunch",
+    "DrugType": 0,
+    "Properties": [
+        "balding",
+        "foggy",
+        "tropicthunder",
+        "giraffying",
+        "cyclopean"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 139,
+            "g": 120,
+            "b": 61,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 160,
+            "g": 144,
+            "b": 99,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 149,
+            "g": 132,
+            "b": 80,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 111,
+            "g": 96,
+            "b": 48,
+            "a": 255
+        }
+    }
+}

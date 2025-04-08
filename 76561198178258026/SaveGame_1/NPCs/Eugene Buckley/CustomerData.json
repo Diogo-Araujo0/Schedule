@@ -1,0 +1,45 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Dependence": 0.13600000739097596,
+    "PurchaseableProducts": [
+        "sourdiesel",
+        "greencrack",
+        "ultramonkey",
+        "granddaddypurple"
+    ],
+    "ProductAffinities": [
+        NaN,
+        0.10985362529754639,
+        0.1664646863937378
+    ],
+    "TimeSinceLastDealCompleted": 1637,
+    "TimeSinceLastDealOffered": 1659,
+    "OfferedDeals": 16,
+    "CompletedDeals": 7,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 32,
+        "time": 1345
+    },
+    "TimeSincePlayerApproached": 1054445,
+    "TimeSinceInstantDealOffered": 9560,
+    "HasBeenRecommended": false
+}

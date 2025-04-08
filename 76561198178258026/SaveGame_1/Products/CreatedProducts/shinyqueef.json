@@ -1,0 +1,43 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Shiny Queef",
+    "ID": "shinyqueef",
+    "DrugType": 0,
+    "Properties": [
+        "smelly",
+        "refreshing",
+        "gingeritis",
+        "balding",
+        "athletic",
+        "slippery",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 103,
+            "g": 123,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 126,
+            "g": 140,
+            "b": 84,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 114,
+            "g": 131,
+            "b": 83,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 82,
+            "g": 98,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

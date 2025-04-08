@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 6,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 2091459314,
+            "Text": "I need a dead drop:\n5x High-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1237990126,
+            "Text": "Copy. I'll message you when it's ready in about 2 hours 30 min.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 161103034,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1060330977,
+            "Text": "I've received $550 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1523052298,
+            "Text": "Your drop is ready. Grab it behind the bank",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 437136299,
+            "Text": "I need a dead drop:\n6x High-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1158231372,
+            "Text": "Copy. I'll message you when it's ready in about 3 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 782374111,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -715672855,
+            "Text": "I've received $660 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1098360394,
+            "Text": "Your drop is ready. Grab it on the pawn shop west wall",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

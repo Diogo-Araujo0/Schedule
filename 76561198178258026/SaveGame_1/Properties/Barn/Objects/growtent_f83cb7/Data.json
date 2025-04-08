@@ -1,0 +1,29 @@
+{
+    "DataType": "PotData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "GUID": "f83cb75c-7ce2-4df9-a440-cbe0f5ca43da",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f12\",\n    \"ID\": \"growtent\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "fa2d9b23-eb58-43ae-8f8b-7c37a132a46e",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 22.0
+    },
+    "Rotation": 90,
+    "SoilID": "",
+    "SoilLevel": 0.0,
+    "RemainingSoilUses": 0,
+    "WaterLevel": 0.0,
+    "AppliedAdditives": [],
+    "PlantData": {
+        "DataType": "PlantData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f12",
+        "SeedID": "",
+        "GrowthProgress": 0.0,
+        "YieldLevel": 0.0,
+        "QualityLevel": 0.0,
+        "ActiveBuds": []
+    }
+}

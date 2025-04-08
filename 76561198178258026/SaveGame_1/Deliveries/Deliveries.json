@@ -1,0 +1,25 @@
+{
+    "DataType": "DeliveriesData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ActiveDeliveries": [
+        {
+            "DeliveryID": "5a5fc27c-c138-4d2d-8368-fdde211fa2c3",
+            "StoreName": "Handy Hank's Hardware",
+            "DestinationCode": "barn",
+            "LoadingDockIndex": 0,
+            "Items": [
+                {
+                    "String": "extralonglifesoil",
+                    "Int": 40
+                },
+                {
+                    "String": "jar",
+                    "Int": 100
+                }
+            ],
+            "Status": 2,
+            "TimeUntilArrival": 0
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "Items": [
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"sourdiesel\",\"Quantity\":14,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"sourdiesel\",\"Quantity\":12,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"greencrack\",\"Quantity\":5,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"granddaddypurple\",\"Quantity\":12,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f12\",\"ID\":\"greencrack\",\"Quantity\":8,\"Quality\":\"Standard\",\"PackagingID\":\"jar\"}"
+    ]
+}

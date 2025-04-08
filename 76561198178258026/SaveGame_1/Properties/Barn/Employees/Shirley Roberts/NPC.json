@@ -1,0 +1,30 @@
+{
+    "DataType": "PackagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ID": "shirley_roberts",
+    "AssignedProperty": "barn",
+    "FirstName": "Shirley",
+    "LastName": "Roberts",
+    "IsMale": false,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": 181.9234161376953,
+        "y": -0.008779296651482582,
+        "z": -5.506635665893555
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": -0.7071071267127991,
+        "z": 0.0,
+        "w": 0.7071065306663513
+    },
+    "GUID": "7ef02f51-6f25-42a0-b23e-85c23d5c6b23",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "GrabbedItemID": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

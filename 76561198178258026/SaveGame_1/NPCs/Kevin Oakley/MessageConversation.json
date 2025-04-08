@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 11,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 1937900832,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1946751129,
+            "Text": "Great, I'll meet you <b>in the parking garage next to the casino</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -691647040,
+            "Text": "Hello, I'm after 6x Green Crack. I can pay <color=#46CB4F>$365</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1683375512,
+            "Text": "How about 6x Green Crack for $465?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1773561420,
+            "Text": "Not gonna happen. I'll get it somewhere else",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -566523845,
+            "Text": "Hello, I'm after 7x Green Crack. I can pay <color=#46CB4F>$425</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1659520177,
+            "Text": "How about 10x Green Crack for $465?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1069095145,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2028085610,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1977669299,
+            "Text": "Great, I'll meet you <b>on the wharf near the french restaurant</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

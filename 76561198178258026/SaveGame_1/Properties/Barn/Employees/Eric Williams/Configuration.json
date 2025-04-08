@@ -1,0 +1,15 @@
+{
+    "DataType": "CleanerConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Bed": {
+        "ObjectGUID": "e2c5b893-979e-4db3-907d-c08109ce65fa"
+    },
+    "Bins": {
+        "ObjectGUIDs": [
+            "a828df74-df1e-43b7-96eb-8a1bd8c0f1d1",
+            "d0786d00-f088-47f0-b2ee-d28b9dfb2d70",
+            "208587d5-27f2-4731-b814-dc1baee99e76"
+        ]
+    }
+}

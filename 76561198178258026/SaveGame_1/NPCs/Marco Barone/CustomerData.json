@@ -1,0 +1,45 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Dependence": 0.4000000059604645,
+    "PurchaseableProducts": [
+        "deathdick",
+        "greencrack",
+        "ogkush",
+        "sourdiesel"
+    ],
+    "ProductAffinities": [
+        0.5637537240982056,
+        0.23089006543159486,
+        0.5416569709777832
+    ],
+    "TimeSinceLastDealCompleted": 1151,
+    "TimeSinceLastDealOffered": 3621,
+    "OfferedDeals": 1,
+    "CompletedDeals": 3,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 31,
+        "time": 1715
+    },
+    "TimeSincePlayerApproached": 1054446,
+    "TimeSinceInstantDealOffered": 1152,
+    "HasBeenRecommended": false
+}

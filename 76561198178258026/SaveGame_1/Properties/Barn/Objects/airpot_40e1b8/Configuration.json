@@ -1,0 +1,20 @@
+{
+    "DataType": "PotConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Seed": {
+        "ItemID": "sourdieselseed"
+    },
+    "Additive1": {
+        "ItemID": ""
+    },
+    "Additive2": {
+        "ItemID": ""
+    },
+    "Additive3": {
+        "ItemID": ""
+    },
+    "Destination": {
+        "ObjectGUID": "f15ebbe9-5a1c-4ab6-8f5a-91cb01a5f29e"
+    }
+}

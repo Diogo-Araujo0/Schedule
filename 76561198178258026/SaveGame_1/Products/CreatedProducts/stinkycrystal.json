@@ -1,0 +1,31 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "Stinky Crystal",
+    "ID": "stinkycrystal",
+    "DrugType": 1,
+    "Properties": [
+        "refreshing",
+        "gingeritis",
+        "sneaky",
+        "sedating",
+        "caloriedense",
+        "slippery",
+        "spicy"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 239,
+            "g": 255,
+            "b": 234,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 239,
+            "g": 231,
+            "b": 191,
+            "a": 255
+        }
+    }
+}

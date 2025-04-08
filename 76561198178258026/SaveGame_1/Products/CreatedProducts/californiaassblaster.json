@@ -1,0 +1,26 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Name": "California Assblaster",
+    "ID": "californiaassblaster",
+    "DrugType": 1,
+    "Properties": [
+        "energizing",
+        "thoughtprovoking"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 214,
+            "g": 255,
+            "b": 196,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 214,
+            "g": 216,
+            "b": 175,
+            "a": 255
+        }
+    }
+}
